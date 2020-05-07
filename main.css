@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box
+}
+body{
+    background: url('/assets/freedom.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
